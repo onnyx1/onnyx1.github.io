@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](asteroids.gif) and 
 ```
 
-<img src="{{site.baseurl | prepend: site.url}}asteroids.gif" alt="zigzag" />
+<img src="https://onnyx1.github.io/asteroids.gif" alt="zigzag" />
 
 
 
