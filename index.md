@@ -26,7 +26,9 @@ Syntax highlighted code block
 [Link](asteroids.gif) and 
 ```
 
-![Image](asteroids.gif)
+<img src="{{site.baseurl | prepend: site.url}}asteroids.gif" alt="zigzag" />
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
